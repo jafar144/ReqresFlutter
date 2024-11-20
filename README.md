@@ -13,7 +13,7 @@
     <img src="assets/images/app_logo.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">Ash Story</h3>
+  <h3 align="center">Reqres Flutter</h3>
 
   <p align="center">
     User List App
